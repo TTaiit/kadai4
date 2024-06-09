@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# origin  git@github.com:TTaiit/kadai4.git
 # ユークリッドの互除法 Euclidean Algorithm = ea
 ea() {
     local a=$1
